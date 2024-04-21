@@ -1,0 +1,29 @@
+body{
+    background-color: blanchedalmond;
+    display:flexbox
+}
+
+.pic{
+    height: 140px;
+    width: 100px;
+    border-radius: 90px;
+    display: grid;
+    place-content: right;
+   
+}
+
+h2&h4{
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    font-size: larger;
+}
+
+.lion{
+    font-size: larger;
+    font-style: italic;
+    text-align: center;
+   }
+
+#value{
+    justify-content: center;
+}
